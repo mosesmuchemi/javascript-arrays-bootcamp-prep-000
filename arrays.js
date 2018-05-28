@@ -20,7 +20,7 @@ function addElementToEndOfArray(chocolateBars, element){
 
     var array =  [...chocolateBars, element]
 
-
+    return array
 }
 
 function destructivelyAddElementToEndOfArray(chocolateBars, element){
